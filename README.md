@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Nilkamal Selenium Automation Framework
 
 A Java-based web UI automation framework built with Selenium WebDriver, TestNG, and the Page Object Model (POM). The project automates key user journeys on the Nilkamal Furniture website.
