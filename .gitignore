@@ -1,0 +1,13 @@
+target/
+test-output/
+reports/
+extendsReoprt/
+excel_test_output/
+screenshots/
+.idea/
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
